@@ -17,3 +17,6 @@ This model will be deployed on Heroku.
 - EAD model (in pipeline)
 
 ## Tools: pandas, numpy, scikit-learn, seaborn.
+
+## N.B: The data for this project can be found at https://drive.google.com/file/d/1FUfd1auevVntbCJyq3AqOLXiKSGqkt6N/view?usp=sharing
+I ann having some issues with this repo, it will be here till i fix the issues.
